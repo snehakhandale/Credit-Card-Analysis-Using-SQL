@@ -26,7 +26,7 @@ This project focuses on analyzing credit card transaction data to uncover spendi
 
 **2. Data Cleaning & Preprocessing:** Performed data validation, missing value handling, and transformation using MySQL.
 
-**3. Exploratory Data Analysis (EDA):** Identified trends and spending patterns.
+**3. Structured Query Language (SQL):** Identified trends and spending patterns using advanced queries with 8 tables using many to many relationship.
 
 **4. Customer Segmentation:** Applied clustering techniques to group customers based on spending behavior.
 
